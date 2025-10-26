@@ -8,5 +8,5 @@ I'm interested in Python and Web Development.
 🌱 I’m currently learning the MERN stack.
 
 📫 How to reach me:
-  + fb.com/khong.phai.kiet.truong
-  + truonganhkiet291006@gmail.com
+  + [Facebook](https://www.facebook.com/khong.phai.kiet.truong)
+  + Email: Truonganhkiet291006@gmail.com
