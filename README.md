@@ -1,4 +1,4 @@
-i code for food
+will code for food
 
 How to reach me:
   + [Facebook](https://www.facebook.com/khong.phai.kiet.truong)
